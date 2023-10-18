@@ -8,6 +8,6 @@
 
 Done.
 
-# Disclaimer
+# Info
 
 Doesn't work for every video. You may have to reload the page.
